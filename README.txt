@@ -1,38 +1,30 @@
-# Project Title
+# XMLWriter
 
 
-Short one-line summary of what the project does.
+Write data into XML format using C# code!
 
 
 ## Description
-Write 2–4 sentences explaining what the project does and why.
+This program creates a class of students that all have certain elements and writes it under the student class. This class asks for user input.
 
 
 ## Features
-- Feature A
-- Feature B
+- Adds a student to a student class
+- Writes and appends to a file.
 
 
 ## Technologies
-- Language / Framework: e.g. Python 3.11, Node 18, .NET 8
-- Libraries: list any major ones
+- Language / Framework: e.g. C#
+- Libraries: System.XML
 
 
 ## How to run (local)
-1. Clone: `git clone https://github.com/YOURUSERNAME/REPO-NAME.git`
+1. Clone: `git clone https://github.com/Sxoony/XMLWriter.git`
 2. Navigate: `cd REPO-NAME`
 3. Setup:
-- `pip install -r requirements.txt` (Python)
-- `npm install` (Node)
 - Open in Visual Studio (C#)
 4. Run:
-- `python main.py` / `node index.js`
-
-
-## Notes / TODO
-- Add feature X
-- Improve UI
 
 
 ## Author
-Your Name
+Zamir Kruger
